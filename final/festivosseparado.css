@@ -1,0 +1,20 @@
+body {
+	
+}
+
+table {
+
+ border-collapse: collapse;
+}
+
+td{
+	padding:5px;
+}
+
+th{
+	background-color:yellow;
+}
+
+h3{
+	color:red;
+}
